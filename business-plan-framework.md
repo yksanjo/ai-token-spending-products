@@ -409,3 +409,7 @@ Year 3:
 4. Develop MVP based on product roadmap
 5. Start customer acquisition based on GTM strategy
 
+
+
+
+

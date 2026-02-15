@@ -1,5 +1,26 @@
 # AI Token Spending Products - Complete Documentation & Guide
 
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub stars](https://img.shields.io/github/stars/yksanjo/ai-products?style=social)
+
+
+## 📸 Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+*Main interface and key features*
+
+### Additional Views
+![Features](screenshots/features.png)
+*Additional functionality and views*
+
+> **Note**: Screenshots will be added to the `screenshots/` directory. To add your own:
+> 1. Take screenshots of your application
+> 2. Save them in a `screenshots/` folder  
+> 3. Update the image paths above
+
+
 > **Comprehensive package for building products based on AI token spending trends**
 
 This repository contains everything you need to understand, plan, and build products that capitalize on the fact that **AI token spending is now outperforming human activities**. Included are 6 product concepts, business frameworks, technical architectures, market analysis, and a working prototype.

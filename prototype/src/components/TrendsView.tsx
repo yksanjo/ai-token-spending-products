@@ -141,3 +141,7 @@ export default function TrendsView({ data }: TrendsViewProps) {
   )
 }
 
+
+
+
+

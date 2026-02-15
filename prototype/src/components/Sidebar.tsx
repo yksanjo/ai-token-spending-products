@@ -60,3 +60,7 @@ export default function Sidebar({ selectedView, onViewChange }: SidebarProps) {
   )
 }
 
+
+
+
+

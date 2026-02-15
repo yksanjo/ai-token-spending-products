@@ -83,3 +83,7 @@ src/
 - Responsive design for mobile/tablet/desktop
 - Ready for backend integration
 
+
+
+
+

@@ -76,3 +76,7 @@ export default function SpendingChart({ data }: SpendingChartProps) {
   )
 }
 
+
+
+
+
